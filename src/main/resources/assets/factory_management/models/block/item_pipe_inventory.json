@@ -1,0 +1,7 @@
+{
+	"parent": "factory_management:block/pipe_inventory",
+	"textures": {
+		"texture": "factory_management:blocks/item_pipe",
+		"particle": "factory_management:blocks/item_pipe"
+	}
+}
